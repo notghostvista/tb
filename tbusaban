@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicon.ico">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <title>ToadVille Bay - Gaming & Products</title>
+    
+    <!-- Primary Meta Tags -->
+    <meta name="title" content="ToadVille Bay - Gaming & Products">
+    <meta name="description" content="Experience nostalgic gaming with ToadVille Bay - your premier destination for retro-inspired games and unique gaming experiences.">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://toadvillebay.com/">
+    <meta property="og:title" content="ToadVille Bay - Gaming & Products">
+    <meta property="og:description" content="Experience nostalgic gaming with ToadVille Bay - your premier destination for retro-inspired games and unique gaming experiences.">
+    <meta property="og:image" content="https://toadvillebay.com/republic-of-toadville-bay-logo.png">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://toadvillebay.com/">
+    <meta property="twitter:title" content="ToadVille Bay - Gaming & Products">
+    <meta property="twitter:description" content="Experience nostalgic gaming with ToadVille Bay - your premier destination for retro-inspired games and unique gaming experiences.">
+    <meta property="og:image" content="https://toadvillebay.com/republic-of-toadville-bay-logo.png">
+
+    <!-- Discord -->
+    <meta property="og:title" content="ToadVille Bay">
+    <meta property="og:description" content="Experience it with ToadVille Bay - Software and Video Games and more!.">
+    <meta property="og:image" content="https://toadvillebay.com/republic-of-toadville-bay-logo.png">
+    <meta property="og:url" content="https://toadvillebay.com">
+    <meta property="og:type" content="website">    
+
+
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon.ico">
+    <link rel="icon" href="/assets/favicon.ico" type="image/x-icon">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="mask-icon" href="/assets/safari-pinned-tab.svg" color="#008080">
+    <meta name="msapplication-TileColor" content="#008080">
+    <meta name="theme-color" content="#008080">
+
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav class="navbar">
+        <button class="hamburger">
+            <span></span>
+            <span></span>
+            <span></span>
+        </button>
+        <div class="nav-links-container">
+            <ul class="nav-links">
+                <li><a href="index.html" class="win98-button">Home</a></li>
+                <li><a href="news.html" class="win98-button">News</a></li>
+                <li><a href="timeline.html" class="win98-button">Timeline</a></li>
+                <li><a href="gallery.html" class="win98-button">Gallery</a></li>
+                <li><a href="contact.html" class="win98-button">Contact</a></li>
+                <li><a href="https://tonnectdb.toadvillebay.com/index.html" class="win98-button">TONNECTDB</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main>
+        <div class="win98-window">
+            <div class="win98-window-title">Welcome to ToadVille Bay</div>
+            <div class="hero-section">
+                <div class="hero-content">
+                    <h1>Welcome to ToadVille Bay</h1>
+                    <p>Connections to Everyone!.</p>
+                    <a href="gallery.html" class="win98-button">Explore!</a>
+                </div>
+                <div class="hero-image">
+                    <img src="republic-of-toadville-bay-logo.png" alt="ToadVille Bay Logo">
+                </div>
+            </div>
+        </div>
+
+        <div class="win98-window">
+            <div class="win98-window-title">Our Products!</div>
+            <div class="hero-section">
+                <div class="hero-content">
+                    <h2>What we offer</h2>
+                    <p>Check out our latest releases to our products.</p>
+                    <a href="gallery.html" class="win98-button">Products!</a>
+                </div>
+                <div class="hero-image">
+                    <img src="TB Logo (Coffical).png" alt="ToadVille Bay 2nd Logo!">
+                </div>
+            </div>
+        </div>
+
+        <div class="win98-window">
+            <div class="win98-window-title">Community Updates</div>
+            <div class="news-grid">
+                <div class="win98-window news-item">
+                    <div class="win98-window-title">ToadVille Bay Beta Application!</div>
+                    <img src="republic-of-toadville-bay-logo.png" alt="TB Logo">
+                    <p>Infomration about our beta application status!</p>
+                    <a href="news.html" class="win98-button">Learn More</a>
+                </div>
+
+                <div class="win98-window news-item">
+                    <div class="win98-window-title">Developer Blog</div>
+                    <img src="TB Logo (Coffical).png" alt="Blog">
+                    <p>Get behind-the-scenes insights from our development team.</p>
+                    <a href="#" class="win98-button">Read More</a>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="footer-content">
+            <div class="footer-section">
+                <h3>About Us</h3>
+                <p>ToadVille Bay is your premier destination for retro-inspired gaming experiences and unique products.</p>
+            </div>
+            <div class="footer-section">
+                <h3>Quick Links</h3>
+                <ul>
+                    <li><a href="index.html" class="win98-button">Home</a></li>
+                    <li><a href="news.html" class="win98-button">News</a></li>
+                    <li><a href="gallery.html" class="win98-button">Gallery</a></li>
+                    <li><a href="contact.html" class="win98-button">Contact</a></li>
+                    <li><a href="https://tonnectdb.toadvillebay.com/index.html" class="win98-button">TONNECTDB</a></li>
+                </ul>
+            </div>
+            <div class="footer-section">
+                <h3>Connect With Us</h3>
+                <div class="social-links">
+                    <a href="#" class="win98-button">Twitter</a>
+                    <a href="#" class="win98-button">Discord</a>
+                    <a href="#" class="win98-button">YouTube</a>
+                    <a href="#" class="win98-button">Instagram</a>
+                </div>
+            </div>
+        </div>
+        <div class="copyright">
+            <p>&copy; 2024 ToadVille Bay. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
