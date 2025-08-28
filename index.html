@@ -21,16 +21,34 @@
         .dropdown-content a { color: #23306e; padding: 10px 16px; text-decoration: none; display: block; }
         .dropdown-content a:hover { background: #f1f1f1; }
         .lang-switch.dropdown:hover .dropdown-content { display: block; }
+
+        /* New logo text styles */
+        .logo-container {
+            position: relative;
+            display: inline-block;
+            text-align: center;
+        }
+
+        .logo-top-text {
+            position: absolute;
+            top: 0px;   /* adjust vertical position */
+            right: -170px;  /* shift text toward right */
+            font-size: 12px;
+            font-weight: bold;
+            color: #23306e;ß
+        }
     </style>
 </head>
 <body>
     <header>
         <div class="gov-banner">
-            <img src="Images/ToadVilleCOA.png" alt="ToadVille Bay Logo" class="logo">
+            <div class="logo-container">
+                <span class="logo-top-text">CA</span>
+                <img src="Images/ToadVilleCOA.png" alt="ToadVille Bay Logo" class="logo">
+            </div>
             <div class="site-title">
                 <span class="gov-name">ToadVille Bay</span>
                 <span class="tagline">ToadVille Bay Canada & México</span>
-            </div>
             </div>
         </div>
         <nav>
@@ -65,6 +83,7 @@
                 <div class="requested-item">
                     <a href="https://toadvillebay.blogspot.com/2025/06/toadville-bay-exit-from-usa-tbexit27.html"><strong>TBExit27</strong></a>
                     <div class="item-desc">Learn about TBExit27 and why its happening.</div>
+                </div>
             </div>
         </section>
         <section class="quick-links">
